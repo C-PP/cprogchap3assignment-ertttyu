@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\cse_user\desktop\201524476_배준용_3장과제.c\201524476_배준용_3장과제.c\소스.cpp(10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\cse_user\desktop\201524476_배준용_3장과제.c\201524476_배준용_3장과제.c\소스.cpp(6): warning C4101: 'salary' :참조되지 않은 지역 변수입니다.
+  201524476_배준용_3장과제.c.vcxproj -> C:\Users\CSE_USER\Desktop\201524476_배준용_3장과제.c\Debug\201524476_배준용_3장과제.c.exe
+  201524476_배준용_3장과제.c.vcxproj -> C:\Users\CSE_USER\Desktop\201524476_배준용_3장과제.c\Debug\201524476_배준용_3장과제.c.pdb (Partial PDB)
